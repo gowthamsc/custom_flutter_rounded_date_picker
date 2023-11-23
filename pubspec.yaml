@@ -1,0 +1,11 @@
+name: custom_flutter_rounded_date_picker
+description: The Flutter plugin that help you can choose dates and years with rounded calendars and customizable themes.
+version: 0.1.0
+homepage: https://github.com/gowthamsc/custom_flutter_rounded_date_picker
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
